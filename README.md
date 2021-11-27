@@ -10,6 +10,10 @@ These include the following:
  * Programmers Notepad has been updated but `Alt + 1` or `F5` don't work to compile code
  * MSYS2 has been included and should be used instead to run `make` and compile code
  * Microsoft Visual Studio Code could be used as an alternative but MSYS2 is the shell
+ * The emulators from examples are missing, to be replaced by Dolphin Beta 5.0-15445 \
+   with the Wii Menu re-enabled in Tools -> Perform Online System Update -> United States \
+   and Tools -> Load Wii System Menu 4.3U (Requires OpenGL compatible Graphics Card on Windows x64) \
+   https://dolphin-emu.org/download/?ref=btn
  * The directories included loosely forms an SDK and Toolchain - without the likes of \
    which it is not feasible to create functional executable apps with.
 
