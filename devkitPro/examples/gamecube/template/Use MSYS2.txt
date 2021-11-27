@@ -1,0 +1,6 @@
+..\..\..\CodeMii\devkitPro\msys2\msys2.exe
+
+In MSYS2: (<path_to_codemii> is your path where you have CodeMii files e.g. "/d/Games/Dolphin-x64/CodeMii")
+cd <path_to_codemii>/devkitPro/examples/gamecube/template
+ls
+make
