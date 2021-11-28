@@ -2,6 +2,8 @@
 MSYS2 Toolchains courtesy of devkitPro CodeMii for developing apps for the Nintendo Wii and other platforms
 https://github.com/devkitPro
 
+#### WARNING: Please don't install untested or unknown .wad files that might brick your Wii. Instead, use an emulator such as Dolphin or those suggested by the tutorials.
+
 # Tutorials
 The following tutorials may be out of date and efforts have been made to \
 correct and update the source directories to account for minor inaccuracies.
