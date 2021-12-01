@@ -43,3 +43,5 @@ to developers especially of MicroPython and CircuitPython so we can potentially 
 get a port of CircuitPython working on the Nintendo Wii. \
 CircuitPython: https://github.com/adafruit/circuitpython \
 MicroPython: https://github.com/micropython/micropython
+
+![screenshot2](https://github.com/TheMindVirus/codemii/blob/main/screenshot2.png)
